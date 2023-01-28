@@ -1,4 +1,10 @@
 ### Hi there 👋
+### :telescope: I’m currently working on a lab
+### :seedling: I’m currently learning cysec
+### :mailbox: How to reach me: :leaves:
+### :zap: 
+### That's all ✨
+
 
 <!--
 **WandaVersion/WandaVersion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
