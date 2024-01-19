@@ -1,9 +1,4 @@
-### Hi there 👋
-### :telescope: I’m currently working on a lab
-### :seedling: I’m currently learning cysec
-### :mailbox: How to reach me: :leaves:
-### :zap: 
-### That's all ✨
+### ✨
 
 
 <!--
